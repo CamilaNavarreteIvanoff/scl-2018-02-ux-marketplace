@@ -1,121 +1,162 @@
-# Marketplace
+# Perros unidos
 
-## Preámbulo
 
-En la actualidad para un emprendimiento no estar en la web es casi lo mismo que no existir, por esta razón para todos los negocios el tener presencia online está siendo una prioridad. En la mayoría de los casos, el sitio web es la carta de presentación de un negocio a los usuarios/as, por lo que no sólo basta con tener una página, esta debe dejar una buena impresión en sus usuarios para que éstos sigan volviendo y destacar sobre la competencia.
+## Objetivos del proyecto
+Los objetivos de este proyecto...
 
-## Introducción
+## Research
+Nuestra investigación se dividió en tres aristas
+* [Cliente](https://www.useloom.com/)
 
-Nos contactaron 5 emprendimientos que necesitan su ayuda para potenciar su negocio a través de la tecnología y una buena experiencia para sus clientes. Los emprendimientos con los que trabajarán son:
+Tuvimos una [entrevista](https://www.useloom.com/) con la emprendedora de Perros unidos 
+* [Usuarios](https://www.useloom.com/)
 
-- [Emporio Amapolas](https://www.instagram.com/emporioamapolas/)
-- [Snack Natural](https://www.instagram.com/snacknaturalchile/)
-- [Wenteruka](https://instagram.com/wenteruka)
-- [Hostal Renacimiento](http://www.hostalrenacimientocusco.com/index.html)
-- [Perros Unidos](https://www.instagram.com/perros.unidos/)
+Realizamos una [encuesta](https://www.useloom.com/) sobre sus mascotas
+* [Industria y contexto](https://www.useloom.com/)
+
+
+de los datos que rescatamos:
+![imagen 1](img/cliente-06.jpg)
+
+![imagen 2](img/usuario-07.jpg)
+[fuente](https://www.emol.com/noticias/Tendencias/2018/08/30/918804/Mascotas-en-Chile-El-64-de-los-hogares-tiene-al-menos-una-y-la-mayoria-prefiere-perros.html)
+
+
+## Definición del público objetivo
+
+    * User persona
+    * Customer Journey Map (indicando pain y gain points)
+  
+
+    
+
+![imagen 3](img/user.person.png)
+## Problemas identificados en la investigación 
+
+Luego de analizar todo lo aprendido en la investigación
+![imagen 3](img/ideacion-02.jpg)
+
+
+## Definición de la solución/producto
+
+
+## Link a prototipo navegable
+figma
+
+## Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.
+-referentes
+-card sorting
+-sketches 
+-test
+
+
+
+## Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final.
+
+## Link de Zeplin
+
+Un video en [Loom](https://www.useloom.com/) de máximo 5 minutos explicando tu documento.
+* Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados en
+  el `README.md` y para hacer un demo de la solución.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Ustedes como UX deben conocer al emprendedor/a que se les ha asignado, su negocio, necesidades, el mercado en el que se mueve y sus clientes para saber que tipo de plataforma puede ayudarle a potenciar su emprendimiento.
 
 Una vez realizada la investigación debes formular una propuesta de valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus beneficios a los usuarios y cómo va a vender/presentar sus productos. Para que guíes a la empresa que se te asignó a entender tu visión, esperan que les hagan una propuesta de cómo podría ser el portal donde las personas puedan buscar, ver, elegir y/o comprar sus productos.
 
 
-## Objetivos de aprendizaje
 
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
 
-Esperamos que en este proyecto puedan entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparse de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
-
-De la misma manera deberán definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal.
-
-## Tópicos a cubrir
-
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
-
-## Consideraciones generales
-
-Para ser grandes UX no sólo deben familiarizarse con los conceptos sino,
-también, poner a prueba sus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitan en todo momento estar atentas al cómo y no sólo al qué. En este
-sentido, es esencial que practiquen el modo en que se comunican frente al
-cliente y el usuario. Deben pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarse en lo que ustedes quieren comunicar.
-
-* Relación con el cliente: la empresa miembro con la que les toque trabajar será
-su cliente. Saber relacionarse con ellos no es fácil. Para comenzar una buena
-relación con el cliente deben escuchar de manera activa qué es lo que necesitan,
-haciendo preguntas que les ayuden a entender sus necesidades para luego buscar
-cómo resolverlas. No traten de dar soluciones inmediatas, escuchen y pregunten, la
-curiosidad es clave para entender la problemática. El problema del cliente no
-siempre es el primero que parece, deben investigar la empresa y la competencia
-para entender lo que sucede. Para mantener una buena relación con los clientes
-deben mostrarle cómo se beneficiarán de lo que ofreces; enséñenles los posibles
-resultados y el beneficio que ellos podrían obtener. También deben estudiar las
-mejores prácticas en la industria del comercio electrónico para poder mostrarle
-al cliente casos de éxito.
-
-* Benchmark: revisar referencias y dar referencias es clave para su relación con
-el cliente. Antes de comenzar a crear cualquier producto deben revisar qué está
-haciendo la competencia o industrias similares. De esta manera, pueden traer
-buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-le da la confianza de que efectivamente tienen conocimiento de su problemática y
-que han estudiado todas las posibles soluciones. Para que el benchmark sea
-efectivo, su curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-las referencias que resulten obvias, sino otras industrias que puedan funcionar
-de manera similar o empresas pequeñas que están teniendo casos de éxito.
-
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-deben realizar un plan de trabajo, donde se visualicen las herramientas que
-están utilizando y por qué las escogieron. No todas las problemáticas requieren
-que utilicen las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-importante que siempre sustenten su idea, no se trata de trabajar de manera
-mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-manera de aproximarse a una posible solución.
-
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-garantiza que los problemas se detecten antes, las buenas ideas se introducen
-más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-testing es una buena forma de profundizar en las necesidades y preferencias de
-los usuarios observando sus reacciones mientras usan un producto. Para que el
-testing realmente esté centrado en el usuario, ustedes deben centrarse también en él,
-actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-al usuario qué podrían mejorar y buscar aquellos errores que llevarán su
-producto al siguiente nivel. No traten de que el usuario apruebe su producto,
-llévenlo a buscar las mejoras y posibles errores, generando una relación de
-confianza con el usuario.
-
-Su curiosidad, empatía y pensamiento crítico son claves para su éxito como UX
-Designer. En cada herramienta que utilicen debes poner a prueba sus soft skills.
-Nunca den nada por supuesto, siempre pregunten hasta encontrar nuevas respuestas,
-deben actuar en todo momento con un pensamiento crítico, sino harán de manera
-mecánica sus proyectos sin encontrar soluciones innovadoras. Sean
-investigadoras, su curiosidad es clave en los procesos creativos; pregunten
-constantemente y no intenten buscar soluciones inmediatas, aprendan a navegar con
-la incertidumbre. La empatía es la habilidad que las va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenten salir de su mente y sus
-supuestos para entender cómo piensan los otros.
 
 ## Parte Obligatoria
 
