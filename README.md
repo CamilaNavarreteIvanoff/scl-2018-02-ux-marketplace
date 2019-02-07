@@ -4,6 +4,11 @@
 ## Objetivos del proyecto
 Los objetivos de este proyecto...
 
+
+Ustedes como UX deben conocer al emprendedor/a que se les ha asignado, su negocio, necesidades, el mercado en el que se mueve y sus clientes para saber que tipo de plataforma puede ayudarle a potenciar su emprendimiento.
+
+Una vez realizada la investigación debes formular una propuesta de valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus beneficios a los usuarios y cómo va a vender/presentar sus productos. Para que guíes a la empresa que se te asignó a entender tu visión, esperan que les hagan una propuesta de cómo podría ser el portal donde las personas puedan buscar, ver, elegir y/o comprar sus productos.
+
 ## Research
 Nuestra investigación se dividió en tres aristas
 * [Cliente](https://www.useloom.com/)
@@ -25,7 +30,7 @@ de los datos que rescatamos:
 ## Definición del público objetivo
 
     * User persona
-    * Customer Journey Map (indicando pain y gain points)
+    * Customer Journey Map (indicando pain y gain points)(faltaaaaaaaaaa)
   
 
     
@@ -35,25 +40,64 @@ de los datos que rescatamos:
 
 Luego de analizar todo lo aprendido en la investigación
 ![imagen 3](img/ideacion-02.jpg)
+![imagen 4](img/ideas-03.jpg)
+
+De todo el proceso de ideación, las principales problemáticas que detectamos son:
+* el usuario no sabe la talla de su mascota.
+* el usuario no tiene conocimiento de todos los productos existentes.
+
+las soluciones que vamos a desarrollar son:
+* Entregar una guía de tallas al usuario a través de imágenes y tablas de las medidas en cm.
+* Mostrar un catálogo digital de todos los productos que ofrece el cliente, con filtros de los productos.
+
+A futuro se seguiran resolviendo las otras problemáticas detectadas.
 
 
-## Definición de la solución/producto
 
-
-## Link a prototipo navegable
-figma
 
 ## Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.
--referentes
--card sorting
--sketches 
--test
+
+* referentes
+
+Analizamos diversas páginas relacionadas al tema y de su compentencia directa, acá se puede ver en detalle las páginas, y abajo las cosas que más nos llamaron la atención
+![imagen 5](img/referentes-09.jpg)
+
+
+
+* card sorting
+
+Una vez analizado varios referentes para ver los contenido de la página y hablado con nuestra emprendedora, seleccionamos algunas categorías y subcategorías y se las mostramos a 5 usuarios a través del card sorting,
+acá se puede ver en los [videos y fotos](https://www.useloom.com/) y algunas observaciones, para definirlas y comenzar los bocetos.
+
+* sketches 
+
+Luego de analizar referentes y realizar el card sorting, comenzamos a hacer scketches de la estructura de la página.
+
+![imagen 5](img/scketch.jpg)
+
+* Testeo 
+
+Cuando llegamos a uno más definido lo testeamos con 5 usuarios,
+acá estan los [Videos](https://www.useloom.com/) y algunas observaciones que nos realizaron.
+![imagen 5](img/testeo-04.jpg)
+Realizamos correcciones e hicimos el [Wireframing](https://www.useloom.com/) y pasamos a desarrollar el prototipo de alta fidelidad en figma.
+
+* Testeo de usabilidad
+
+Una vez desarrollado el prototipo de alta fidelidad, lo testeamos con 5 usuarios, aca se puede ver en los [Videos](https://www.useloom.com/), de acuerdo a sus observaciones hicimos las ultimas correcciones.
+
+## Link a prototipo navegable
+[Figma](https://www.useloom.com/)
+
+## Link de Zeplin
+[Zeplin](https://www.useloom.com/)
+
 
 
 
 ## Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final.
 
-## Link de Zeplin
+
 
 Un video en [Loom](https://www.useloom.com/) de máximo 5 minutos explicando tu documento.
 * Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados en
@@ -150,9 +194,6 @@ Un video en [Loom](https://www.useloom.com/) de máximo 5 minutos explicando tu 
 
 
 
-Ustedes como UX deben conocer al emprendedor/a que se les ha asignado, su negocio, necesidades, el mercado en el que se mueve y sus clientes para saber que tipo de plataforma puede ayudarle a potenciar su emprendimiento.
-
-Una vez realizada la investigación debes formular una propuesta de valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus beneficios a los usuarios y cómo va a vender/presentar sus productos. Para que guíes a la empresa que se te asignó a entender tu visión, esperan que les hagan una propuesta de cómo podría ser el portal donde las personas puedan buscar, ver, elegir y/o comprar sus productos.
 
 
 
