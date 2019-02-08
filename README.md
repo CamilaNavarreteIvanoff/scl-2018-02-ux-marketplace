@@ -54,21 +54,21 @@ A futuro se seguiran resolviendo las otras problemáticas detectadas.
 
 ## Desarrollo del prototipo
 
-* referentes
+* Referentes
 
 Analizamos diversas páginas relacionadas al tema y de su compentencia directa, [acá](https://docs.google.com/document/d/1K8djP5KGIn57tbPWc4IXUEcObzf4uDhE2MunZ81poEE/edit)
-)
- se puede ver en detalle las páginas, y abajo las cosas que más nos llamaron la atención
+
+ se puede ver en detalle las páginas, y abajo las cosas que más nos llamaron la atención.
 ![imagen 5](img/referentes-09.jpg)
 
 
 
-* card sorting
+* Card sorting
 
 Una vez analizado varios referentes para ver los contenido de la página y hablado con nuestra emprendedora, seleccionamos algunas categorías y subcategorías y se las mostramos a 5 usuarios a través del card sorting,
 acá se puede ver en los [videos y fotos](https://drive.google.com/drive/u/0/folders/1XDDMetx8t1Ja29uVGXaZSy9WGJJr1ViP) y algunas observaciones, para definirlas y comenzar los bocetos.
 
-* sketches 
+* Sketch
 
 Luego de analizar referentes y realizar el card sorting, comenzamos a hacer scketchs de la estructura de la página.
 
