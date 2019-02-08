@@ -81,7 +81,7 @@ acá estan los [Videos](https://drive.google.com/drive/u/0/folders/1Wj1f1ZyNJoih
 ![imagen 5](img/testeo-04.jpg)
 Realizamos correcciones e hicimos el Wireframing y pasamos a desarrollar el prototipo de alta fidelidad en figma.
 
-![imagen 5](img/wireframing.png)
+![imagen 5](img/Wireframing.png)
 
 
 * Testeo de usabilidad
