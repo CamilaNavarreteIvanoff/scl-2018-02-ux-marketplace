@@ -103,11 +103,12 @@ Una vez desarrollado el prototipo de alta fidelidad, lo testeamos con 5 usuarios
 ![imagen 5](img/solucion-11.jpg)
 Propuestas de soluciones a las problemáticas detectadas.
 
+## Anexos
 
-video en [Loom](https://drive.google.com/drive/u/0/folders/1azJ46jwKgsfbykZ15mGlhzFeapfNOZCb
+* video en [Loom](https://drive.google.com/drive/u/0/folders/1azJ46jwKgsfbykZ15mGlhzFeapfNOZCb
 )
 
-[Planificación](https://github.com/paumgr/scl-2018-02-ux-marketplace/projects/1
+* [Planificación](https://github.com/paumgr/scl-2018-02-ux-marketplace/projects/1
 )
 
 
