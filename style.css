@@ -1,0 +1,37 @@
+body{
+    background-image: url("./img/perro-usando-collar.jpg");
+    background-size: cover;
+    background-position: center top;
+}
+
+.bodys{
+    background-color: white;
+}
+
+
+.brand-logo{
+    position: initial;
+}
+
+.modal{
+    height: 400%;
+    width: 4000%;
+}
+
+.imagen{
+    height: 50%;
+    width: 50%;
+    padding: 1%;
+    float: left;
+}
+
+.btn2{
+    background-image: url("./img/Captura\ de\ pantalla\ 2019-02-14\ a\ la\(s\)\ 11.56.03.png");
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+}
+.cantidad{
+    
+}
+
