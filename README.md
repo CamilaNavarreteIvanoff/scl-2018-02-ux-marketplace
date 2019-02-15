@@ -117,6 +117,14 @@ Propuestas de soluciones a las problemáticas detectadas.
 * [Planificación](https://github.com/paumgr/scl-2018-02-ux-marketplace/projects/1
 )
 
+* Documentación de trabajo
+![imagen 5](img/1.jpg)
+![imagen 5](img/2.jpg)
+
+
+
+
+
 
 
 

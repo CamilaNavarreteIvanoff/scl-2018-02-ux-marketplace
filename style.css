@@ -1,37 +1,317 @@
+html {
+    width: 100%;
+}
+
 body{
     background-image: url("./img/perro-usando-collar.jpg");
     background-size: cover;
-    background-position: center top;
+    background-repeat: no-repeat;
+    max-width: 100%;
 }
 
-.bodys{
-    background-color: white;
-}
+ 
+/* 
+.container{
+    width: 1200px;
+    height: 600px;
+} */
 
 
 .brand-logo{
-    position: initial;
+    height: 169px;
+    width:169px ;   
+    margin-top: -5%;
+    margin-left: 2%;
 }
 
-.modal{
-    height: 400%;
-    width: 4000%;
+#whatsapp{
+        position: absolute;
+        width: 3%;
+        height: 20%;
+        left: 80%;
+        top: -5%;
+    }
+
+
+#instagram{
+    position: absolute;
+    width: 3%;
+    height: 20%;
+    left: 85%;
+    top: -5%;
 }
 
-.imagen{
-    height: 50%;
-    width: 50%;
-    padding: 1%;
-    float: left;
+#paw_print{
+    position: absolute;
+    width: 3%;
+    height: 20%;
+    left: 90%;
+    top: -5%;
 }
 
-.btn2{
-    background-image: url("./img/Captura\ de\ pantalla\ 2019-02-14\ a\ la\(s\)\ 11.56.03.png");
-    height: 50px;
-    width: 150px;
-    border-radius: 10px;
+#shopdog{
+
+    position: absolute;
+    width: 3%;
+    height: 20%;
+    left: 95%;
+    top: -5%;
 }
-.cantidad{
+
+.nav-wrapper{
+    position: absolute;
+width: 100%;
+height: 86px;
+left: 0px;
+top: 80px;
+
+background: rgba(46, 41, 40, 0.63);
+}
+
+#btn_uno {
+position: absolute;
+left: 50.67%;
+right: 40%;
+top: 32%;
+bottom: 94.53%;
+
+border: 2px solid #FFFFFF;
+border-radius: 30px;
+
+font-family: 'Montserrat', sans-serif;
+font-size: 12px;
+color: #FFFFFE;
+
+}
+
+#btn_dos {
+position: absolute;
+left: 61.2%;
+right: 29.47%;
+top: 32%;
+bottom: 94.53%;
+
+border: 2px solid #FFFFFF;
+border-radius: 30px;
+
+font-family: 'Montserrat', sans-serif;
+font-size: 10px;
+color: #FFFFFE;
+}
+
+#btn_tres {
+    position: absolute;
+left: 71.93%;
+right: 18.73%;
+top: 32%;
+bottom: 94.53%;
+
+border: 2px solid #FFFFFF;
+border-radius: 30px;
+
+font-family: 'Montserrat', sans-serif;
+color: #FFFFFE;
+font-size: 12px;
+}
+
+#btn_cuatro{
+    position: absolute;
+width: 315px;
+height: 37px;
+left: 82%;
+top: 39%;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 12px;
+text-align: justify;
+
+color: #FFFFFE;
+
+}
+
+.boton{
+    position: absolute;
+left: 16.2%;
+right: 71.53%;
+top: 20.27%;
+
+
+background: #F5C228;
+border: 2px solid #F5C228;
+}
+
+
+.text {
+    position: absolute;
+width: 295px;
+height: 155px;
+left: 191px;
+top: 454px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 20px;
+text-align: center;
+
+color: #FFFFFF;
+
+mix-blend-mode: hard-light;
+}
+
+#productos{
+    position: absolute;
+width: 162px;
+height: 31px;
+left: 669px;
+top: 863px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+font-size: 24px;
+text-align: justify;
+
+color: #000000;
+}
+
+#line {position: absolute;
+width: 1234px;
+height: 0px;
+left: 145px;
+top: 918px;
+
+border: 2px solid #FFCA28;
+}
+
+#perrito{
+    position: absolute;
+width: 238px;
+height: 238px;
+left: 414px;
+top: 971px;
+}
+
+#b{
+    position: absolute;
+width: 247px;
+height: 247px;
+left: 415px;
+top: 975px;
+
+background: rgba(255, 202, 40, 0.52);
+}
+
+#gatito{
+    position: absolute;
+    width: 237px;
+    height: 237px;
+    left: 858px;
+    top: 971px;
+}
+
+#btn-floating{
+    background: rgba(255, 202, 40, 0.52); }
+
+/* }
+
+.one {
+    position: absolute;
+    left: 2%;
+    right: 78.44%;
+    top: 220%;
+
+}
+
+.dos {
+    position: absolute;
+    left: 30%;
+    right: 20.44%;
+    top: 220%;
+
+}
+
+.tres {
+    position: absolute;
+    left: 50%;
+    right: 20.44%;
+    top: 220%;
+
+} */
+
+
+.container {
+    position: absolute;
+    top: 200%;
+    left: 10%;
+ }
+
+ .card-content{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    font-size: 18px;
+ }
+
+ #comomedirlo{
+    position: absolute;
+    width: 255px;
+    height: 28px;
+    left: 621px;
+    top: 2025px;
     
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    font-size: 24px;
+    text-align: center;
+    
+    color: #000000;
+    
+ }
+
+ .medidas{
+    position: absolute;
+    width: 1283px;
+    height: 724px;
+    left: 94px;      
+ }
+
+#p{
+    position: absolute;
+width: 95px;
+height: 32px;
+left: 486px;
+top: 80%;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 24px;
+
+color: #000000;
+
+mix-blend-mode: hard-light;
+
+} 
+
+#perrito{
+    width:250px;
+    height:250px;
+    border-radius:150px;
+}
+
+#gatito{
+    width:250px;
+    height:250px;
+    border-radius:150px;
 }
 
