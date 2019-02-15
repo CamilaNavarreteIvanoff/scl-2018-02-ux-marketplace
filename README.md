@@ -4,6 +4,9 @@
 ## Objetivos del proyecto
 A través de  una investigación, queremos llegar a conocer las necesidades de nuestro cliente y sus usuarios, para cumplir el objetivo del proyecto que es poder potenciar su emprendimiento a través de una plataforma web, que le permita hacer más conocidos sus productos.
 
+## Implementación y Presupuesto
+![](puntos.png)
+
 
 ## Research
 Nuestra investigación se dividió en tres aristas
@@ -32,6 +35,9 @@ de los datos que rescatamos:
 
 ![imagen 3](img/user.person.png)
 ![imagen 3](img/mapaempatia.jpg)
+
+    * Costumer Journey Map
+![](costumer.png)
 
 ## Problemas identificados en la investigación 
 
